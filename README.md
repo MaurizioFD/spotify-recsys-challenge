@@ -58,7 +58,7 @@ suggested several state of the art approaches:
 
 ## Data Preprocessing 
 In order to load data in an easy way, we converted the original JSON files provided from Spotify in CSV files.
-The dataset has been made publicly available by Spotify [at this link](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge)**.
+The dataset has been made publicly available by Spotify [at this link](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge).
 
 Include the *challenge_set.json* file into /data/challenge folder.
  
