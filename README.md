@@ -14,7 +14,7 @@ The challenge is split into two parallel challenge tracks. In the main track, te
 while in the creative track participants can use external, public and freely available data sources to boost their system.
 
 ## Overview
-This repository contains all the approaches that we developed in order to solve the two tracks of the challenge.
+This repository contains all the approaches that we developed in order to solve the two tracks of the challenge. The paper describing our approach can be accessed [here](https://www.researchgate.net/publication/328086857_Artist-driven_layering_and_user's_behaviour_impact_on_recommendations_in_a_playlist_continuation_scenario).
 The rest of the document is organized in the following way:
 
    * **Setup:** gives an overview of the project structure and instructions on how to gather data and 
